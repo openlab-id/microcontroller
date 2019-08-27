@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Laboratorium Mikrokontroller Blog</title>
+        <link>https://openlab-id.github.io/microcontroller/blog</link>
+        <description>The best place to stay up-to-date with the latest Laboratorium Mikrokontroller news and events.</description>
+        <lastBuildDate>Tue, 27 Aug 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Laboratorium Mikrokontroller Blog</title>
+            <url>https://openlab-id.github.io/microcontroller/img/favicon.png</url>
+            <link>https://openlab-id.github.io/microcontroller/blog</link>
+        </image>
+        <copyright>Copyright © 2019 OpenLabID</copyright>
+        <item>
+            <title><![CDATA[Peluncuran lab mikrokontroller]]></title>
+            <link>https://openlab-id.github.io/microcontroller/blog/2019/08/27/rilis-pertama-1.0.0.html</link>
+            <guid>https://openlab-id.github.io/microcontroller/blog/2019/08/27/rilis-pertama-1.0.0.html</guid>
+            <pubDate>Tue, 27 Aug 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</p> <p>Semoga dapat dijadikan tempat untuk saling berbagi ilmu pengetahuan tentang mikrokontroller</p> ]]></description>
+        </item>
+    </channel>
+</rss>

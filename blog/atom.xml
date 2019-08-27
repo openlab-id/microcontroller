@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://openlab-id.github.io/microcontroller/blog</id>
+    <title>Laboratorium Mikrokontroller Blog</title>
+    <updated>2019-08-27T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://openlab-id.github.io/microcontroller/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Laboratorium Mikrokontroller news and events.</subtitle>
+    <logo>https://openlab-id.github.io/microcontroller/img/favicon.png</logo>
+    <rights>Copyright © 2019 OpenLabID</rights>
+    <entry>
+        <title type="html"><![CDATA[Peluncuran lab mikrokontroller]]></title>
+        <id>https://openlab-id.github.io/microcontroller/blog/2019/08/27/rilis-pertama-1.0.0.html</id>
+        <link href="https://openlab-id.github.io/microcontroller/blog/2019/08/27/rilis-pertama-1.0.0.html">
+        </link>
+        <updated>2019-08-27T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</p> <p>Semoga dapat dijadikan tempat untuk saling berbagi ilmu pengetahuan tentang mikrokontroller</p> ]]></summary>
+        <author>
+            <name>Ma&apos;ruf Shidiq</name>
+            <uri>http://github.com/marufshidiq</uri>
+        </author>
+    </entry>
+</feed>
